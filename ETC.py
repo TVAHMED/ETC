@@ -9,8 +9,7 @@ from concurrent.futures import ThreadPoolExecutor as tred
 import base64
 import os,sys,time,json,random,re,string,platform,base64
 import requests
-from concurrent.futures import ThreadPoolExecutor as ThreadPool
-import mechanize
+from concurrent.futures import ThreadPoolExecutor as ThreadP
 from requests.exceptions import ConnectionError
 import string
 try:
